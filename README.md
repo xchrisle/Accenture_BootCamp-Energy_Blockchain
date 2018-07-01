@@ -4,7 +4,10 @@
 
 The project is based off a hypothetical business idea at Accenture Sydney's Technology bootcamp from the 19th of February to the 22nd of February. This repository exist to keep a copy of the original repository on one of the developer's github account. The original repository is [here](https://github.com/firew0rks/smart-meter-client)
 
-We also won the competitions.
+We also won the competition.
+![Image not Found](https://media.licdn.com/media-proxy/ext?w=4032&h=3024&f=pj&hash=Ib3BHnLMQ%2FHlEUFm0nayuNfZ7wo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjse5Lafrai8kAReS5XjQBnd721EmOwG469LI7rKYpyg5C0dcb5aRUPbhU4hGUB5sE-Pg "Winner's Photo")
+
+
 
 ## Project
 
@@ -32,7 +35,7 @@ The Bootcamp allowed us to work in a team of 7 to produce the product.
 
 We also had 3 mentors assigned to our team and helped us when needed.
 
-* Sing Le (Accenture): Developer
-* Jess Wu (Accenture): Developer/Business Analyst
-* Elly Williams (Accenture): Designer
+* Developer: Sing Le (Accenture)
+* Developer/Business Analyst: Jess Wu (Accenture)
+* Designer: Elly Williams (Accenture)
 
