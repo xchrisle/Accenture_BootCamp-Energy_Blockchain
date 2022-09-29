@@ -58,7 +58,7 @@
     "react-material-icons": "^1.0.3",
     "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
-    "recharts": "^1.0.0-beta.10",
+    "recharts": "^2.1.14",
     "web3": "^0.20.5"
   },
   "scripts": {
